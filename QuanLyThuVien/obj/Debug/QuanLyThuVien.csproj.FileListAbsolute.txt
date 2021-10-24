@@ -1,0 +1,33 @@
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThuThu.resources
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fQuanLySach.resources
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fDangNhap.resources
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhanVien.resources
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhaCC.resources
+C:\Users\Administrator\OneDrive\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhapSach.resources
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fDangNhap.resources
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhaCC.resources
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhanVien.resources
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThuThu.resources
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fQuanLySach.resources
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhapSach.resources
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\Quản_Lý_Thư_Viện.frmQuanLyDocGia.resources
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\Quản_Lý_Thư_Viện.frmQuanLyMuonTraSach.resources
+D:\Lập trình Window\QuanLyThuVien\QuanLyThuVien\obj\Debug\Quản_Lý_Thư_Viện.frmQuanLyViPham.resources
